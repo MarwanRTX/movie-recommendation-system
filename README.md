@@ -1,1 +1,1 @@
-Very simple newbie reccomendation system from a tutorial
+Very simple newbie recommendation system from a tutorial
